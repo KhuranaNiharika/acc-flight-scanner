@@ -1,0 +1,30 @@
+YYZ	Toronto
+YUL	Montreal
+YVR	Vancouver
+YYC	Calgary
+YEG	Edmonton
+YHZ	Halifax
+YOW	Ottawa
+YWG	Winnipeg
+YYT	St. John's
+YYJ	Victoria
+YQB	Quebec
+YZF	Yellowknife
+YLW	Kelowna
+YZV	Septiles
+YQM	Moncton
+YQT	Thunder Bay
+YWK	Wabush
+YMM	Fort McMurray
+YQQ	Comox
+YQR	Regina
+YTS	Timmins
+YXE	Saskatoon
+YXT	Terrace
+YEV	Inuvik
+YKA	Kamloops
+YKF	Kitchener
+YQG	Windsor
+YRT	Rankin Inlet
+YSB	Sudbury
+YUY	Rouyn-Noranda
